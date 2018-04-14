@@ -1,21 +1,20 @@
+ [
 {
-    "price" : [
-{
-    "serviceName": "Gear/brake tuning",
-    "servicePrice": "$2"
+    "name": "Gear/brake tuning",
+    "serviceprice": "$2"
 },
 {
-    "serviceName": "Gear/brake tuning",
+    "name": "Gear/brake tuning",
     "servicePrice": "$15"
 },
 {
-    "serviceName": "Tube replacement",
-    "servicePrice": "$10",
+    "name": "Tube replacement",
+    "servicePrice": "$10"
 },
 {
-    "serviceName": "Tyre replacement",
+    "name": "Tyre replacement",
     "servicePrice": "$25"
 }
 ]
-}
+
  
