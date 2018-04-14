@@ -1,12 +1,13 @@
 {
     "price" : [
 {
-    
-    "Service:": "Cost",
-    "Gear/Brake tuning": "$2",
-    "Gear/Brake cable replacement": "$15",
-    "Tube replacement": "$10",
-    "Tyre replacement": "$25",
+   
+    "tuning": "$2",
+    "cableReplacement": "$15",
+    "tubeReplacement": "$10",
+    "tyreReplacement": "$25",
+
+   
    ]
     
 }
