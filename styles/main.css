@@ -86,6 +86,9 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 24px;
+}
 
 h3 {
     text-align: center;
@@ -309,7 +312,7 @@ footer aside p {
 } /* This structure refers to p elements that are direct children of the footer element */
 
 footer p.footer-bar {
-    font-size: 11px;
+    font-size: 9px;
     text-align: center;
     background-color: #585858;
     color: white;
